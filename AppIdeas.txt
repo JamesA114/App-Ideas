@@ -1,0 +1,10 @@
+1. Find apps that are good for what you need 
+2. Physical objects that are costly
+3. No physical activity due to work schedule
+4. Waiting on lines
+5. Awareness of hygeine 
+6. Onboarding, getting things when wanted. 
+7. 
+8. 
+Onboarding is displaying start of the app.Then go to login and homepage. Homepage can have 2 or 3 screens with navigation
+Inquiry pages, flatlist to display concepts related in the application
